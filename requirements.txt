@@ -1,0 +1,10 @@
+gradio
+langchain
+langchain-openai
+nltk
+openai
+pandas
+pinecone-client
+python-dotenv
+tiktoken
+vaderSentiment
